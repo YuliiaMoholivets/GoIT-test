@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2436/2436676.png"
+  },
+  {
+    "id": 2,
+    "user": "Elenka",
+    "tweets": 888,
+    "followers": 171222,
+    "avatar": "https://cdn-icons-png.flaticon.com/128/4202/4202831.png"
+  },
+  {
+    "id": 3,
+    "user": "Elon Reeve Musk",
+    "tweets": 999,
+    "followers": 220999,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/4721/4721637.png"
+  },
+  {
+    "id": 4,
+    "user": "Elon Reeve Musk",
+    "tweets": 555,
+    "followers": 1555554,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/3006/3006876.png"
+  },
+  {
+    "id": 5,
+    "user": "Elon Reeve Musk",
+    "tweets": 3077,
+    "followers": 199999,
+    "avatar": "https://img.freepik.com/premium-psd/3d-illustration-person-with-purple-hair-glasses_23-2149436204.jpg"
+  },
+  {
+    "id": 6,
+    "user": "Elon Reeve Musk",
+    "tweets": 1111,
+    "followers": 345999,
+    "avatar": "https://res.cloudinary.com/dsbfzhkvq/image/upload/v1672068383/6_k4b4bi.png"
+  }
+]
+
