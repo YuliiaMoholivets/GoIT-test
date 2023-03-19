@@ -1,3 +1,7 @@
+This is a simple test task from GoIT School designed for educational purposes.
+
+Link to the live page - https://yuliiamoholivets.github.io/GoIT-test/
+
 The project was created to reproduce the situation when a user
 subscribes/unsubscribes to a certain profile. In accordance with the technical
 task, the project implemented:
